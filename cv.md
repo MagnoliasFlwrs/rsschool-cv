@@ -28,3 +28,10 @@
   color: #000000;
 }
 ```
+*****
+## Projects
+[Cootels] (https://github.com/MagnoliasFlwrs/cootels)
+*****
+## Languages
+#### *Russian: native*
+#### *English: A2*
