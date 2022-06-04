@@ -1,1 +1,2 @@
-https://MagnoliasFlwrs.github.io/rsschool-cv/cv
+rsschool-cv
+(https://github.com/MagnoliasFlwrs/rsschool-cv)
