@@ -1,1 +1,1 @@
-# rsschool-cv
+https://MagnoliasFlwrs.github.io/rsschool-cv/cv
